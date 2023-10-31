@@ -23,7 +23,7 @@ function App() {
   return (
     <>
     <article className='container text-center'>
-    <h1 className='m-5'>Millau TV APP</h1>
+    <h1 className='m-5 text-warning'>Millau TV APP</h1>
       <div className="input-group input-group-lg"> 
       <input type="text" className="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" onChange={handleInputChange}/>
       </div>
